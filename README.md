@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Duong</h1>
 <h3 align="center">I'm a juninor at Ho Chi Minh City Open University.</h3>
 
-- 🌱 I’m currently learning **Google Data Analyst**
-
 - 📫 Contact Mail: **duongh1201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
