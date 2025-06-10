@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Duong</h1>
-<h3 align="center">I'm a juninor at Ho Chi Minh City Open University.</h3>
+<h3 align="center">I'm a junior at Ho Chi Minh City Open University.</h3>
 
 - 📫 Contact Mail: **duongh1201@gmail.com**
 
